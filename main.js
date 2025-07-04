@@ -3,5 +3,6 @@ function inserirNome() {
     let elemento = document.querySelector ("#nome=usuario");
     elemento.textContent = nomeUsuario;
 
-
 }
+
+inserirNome
