@@ -1,11 +1,18 @@
-header {
-    font-size: 25px;
-    padding: 20px;
-    border-bottom: solid 2px orangered;
-    
+ {
+    margin: 0px;
+    padding: 0px;
 }
 
-.chamada{
-    display: flex;
-    justify-content: center;
+header {
+    background-color: #000000;
+    color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+    border-bottom: solid 4px gold;
+    padding: 20px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
 }
+
